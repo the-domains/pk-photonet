@@ -1,4 +1,3 @@
-layout_spectrum: 0.08760727709159255
 typography_spectrum: 0.44080832810141146
 color:
   brandStrength: 0.5741552328690886
@@ -11,4 +10,9 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-name: pk-photo
+layout_spectrum: 0.08760727709159255
+author:
+  name: Phillip Kerley
+  email: phillipkerley@pk-photo.net
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2306a57-bf85-44d0-9540-23cc28f89297.png'
+name: pk-photo.net
