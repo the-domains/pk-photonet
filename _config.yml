@@ -1,18 +1,30 @@
-typography_spectrum: 0.44080832810141146
-color:
-  brandStrength: 0.5741552328690886
-  lightness: 0.9097462515346706
-  saturation: 0.8470006273128092
-  rhythmicContrast: 0.6624782599974424
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-layout_spectrum: 0.08760727709159255
 author:
   name: Phillip Kerley
   email: phillipkerley@pk-photo.net
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2306a57-bf85-44d0-9540-23cc28f89297.png'
+color:
+  saturation: 0.8470006273128092
+  brandStrength: 0.5741552328690886
+  lightness: 0.9097462515346706
+  brandColors:
+    - '#13132C'
+    - '#FFD28D'
+    - '#41C0A1'
+    - '#9C6747'
+    - '#8E3334'
+  rhythmicContrast: 0.6624782599974424
+typography_spectrum: 0.4408083281014115
+layout_spectrum: 1
 name: pk-photo.net
