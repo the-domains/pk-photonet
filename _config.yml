@@ -15,16 +15,16 @@ collections:
       number: 10
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2306a57-bf85-44d0-9540-23cc28f89297.png'
 color:
-  saturation: 0.8470006273128092
-  brandStrength: 0.5741552328690886
-  lightness: 0.9097462515346706
+  saturation: 0.5282336599193513
+  brandStrength: 0.037523381877690554
+  lightness: 0.5451261515263468
   brandColors:
-    - '#13132C'
-    - '#FFD28D'
-    - '#41C0A1'
-    - '#9C6747'
-    - '#8E3334'
-  rhythmicContrast: 0.6624782599974424
-typography_spectrum: 0.4408083281014115
-layout_spectrum: 1
+    - '#CFC291'
+    - '#FFF6C5'
+    - '#A1E8D9'
+    - '#FF712C'
+    - '#695D46'
+  rhythmicContrast: 0.11450672755017877
+typography_spectrum: 0.12706981552764773
+layout_spectrum: 0.5338362324982882
 name: pk-photo.net
